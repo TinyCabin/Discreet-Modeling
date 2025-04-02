@@ -12,7 +12,7 @@ This project demonstrates various discrete modeling techniques in computational 
 
 ## 📈 Authors
 
-- ✨ **[Dominik ]** – Main Developer
+- ✨ **[Dominik]** – Main Developer
 - 📬 Contact: [klido2357@example.com]
 
 ---
